@@ -463,6 +463,18 @@ color: #000;
 display: none;
 }
 
+#top-right {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px;
+}
+
+#top-right img {
+	max-width: 100px;
+	height: auto;
+}
+
 #zoom {
 	z-index:999;
 	position: fixed;
